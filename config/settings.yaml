@@ -1,0 +1,5 @@
+scheduler:
+  check_interval_seconds: 60
+
+channel:
+  name: "Импрув"
